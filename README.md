@@ -3,10 +3,13 @@
 # hey, soy Alisson Cruz
 
 **Estudiante de Desarrollo de Software · El Salvador**
-*Creando soluciones web con código limpio, bases de datos sólidas y un toque de diseño.*
+*Transformando líneas de código en experiencias que cobran vida.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://)
 [![El Salvador](https://img.shields.io/badge/El%20Salvador-🇸🇻-FFC1B1?style=for-the-badge&logoColor=white)](https://)
 
 </div>
@@ -15,12 +18,12 @@
 
 ## sobre mí
 
-Soy estudiante de desarrollo de software en un instituto técnico, enfocada en construir aplicaciones web completas y funcionales. Me encanta conectar la lógica del backend con interfaces atractivas y bases de datos bien estructuradas.
+Soy estudiante de tercer año de bachillerato en desarrollo de software, apasionada por la creación de plataformas web y la gestión de bases de datos. Me considero una desarrolladora enfocada en el trabajo colaborativo, con experiencia en el despliegue de sitios y la construcción de soluciones e-commerce funcionales.
 
-- **Cómo trabajo:** Creo firmemente que el buen software no solo debe funcionar perfectamente, sino también verse bien y ser intuitivo.
-- **Detrás de la pantalla:** Además de tirar código, me apasiona el diseño 3D y materializar ideas capa por capa en mi impresora.
-- **En qué ando:** Actualmente desarrollando proyectos full-stack en entornos Linux y dándole vida a tiendas virtuales personalizadas.
-- **Dato curioso:** Mi entorno de desarrollo ideal incluye Ubuntu en modo oscuro, una taza de café y una paleta de colores pastel seleccionada minuciosamente.
+- 🤝 Me destaco por mi capacidad para trabajar en proyectos técnicos en equipo y coordinar despliegues de sitios web.
+- 🛠️ Mi entorno de trabajo principal es Linux (Ubuntu), donde gestiono desde la configuración de servidores hasta el manejo de bases de datos.
+- 🖨️ Interesada en la tecnología de impresión 3D, desde la configuración del hardware hasta la optimización del proceso de impresión.
+- 🚀 Actualmente enfocada en profundizar mis conocimientos en arquitecturas de software y mejorar mis habilidades en el stack LAMP y MERN.
 
 ---
 
