@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ptrincessh/ptrincessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, soy [tu nombre]
 
-Here are some ideas to get you started:
+**[Tu carrera / rol] · [Tu país]**
+*[Una línea que describa cómo aprendés o trabajás]*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![[Badge 1]](https://img.shields.io/badge/[Texto]-[Color]?style=for-the-badge&logo=[logo]&logoColor=white)]()
+[![[Badge 2]](https://img.shields.io/badge/[Texto]-[Color]?style=for-the-badge&logo=[logo]&logoColor=white)]()
+[![[Tu país]](https://img.shields.io/badge/[País]-🇸🇻-[Color]?style=for-the-badge)]()
+
+</div>
+
+---
+
+## sobre mí
+
+[2-3 oraciones sobre quién sos como desarrollador. No repitas lo del encabezado.]
+
+- [Algo en lo que creés o cómo trabajás]
+- [Algo personal pero relacionado a tech]
+- [Algo que estés haciendo ahora — proyecto, aprendizaje, etc.]
+- [Una línea que diga algo de vos con humor o personalidad]
+
+---
+
+## stack
+
+**[Categoría 1]**
+
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+
+**[Categoría 2]**
+
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+
+**[Categoría 3]**
+
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+![Tecnología](https://img.shields.io/badge/[Nombre]-[Color]?style=flat-square&logo=[logo]&logoColor=white)
+
+---
+
+## proyectos destacados
+
+### [Nombre del proyecto]
+> [Una línea que explique qué hace y para quién.]
+
+Stack: `[Tech 1]` `[Tech 2]` `[Tech 3]`
+
+[Una o dos oraciones sobre qué aprendiste o qué problema resuelve.]
+
+---
+
+<div align="center">
+
+*[Línea final — puede ser un chiste, una frase tuya, o lo que se te ocurra.]*
+
+</div>
